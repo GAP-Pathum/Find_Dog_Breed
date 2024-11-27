@@ -1,0 +1,12 @@
+# Ignore model weights and trained models
+models/
+
+# Ignore data
+data/
+
+# Ignore environment files
+.env
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
